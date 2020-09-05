@@ -57,3 +57,7 @@ Part of the fun of this project for me is that it required me to learn new techn
 ## Notes
 - This project was built as part of the Per Scholas Java Developer course sponsored by Barclays.
 - This is a fan hobby project unaffiliated with Konami or the Yu-Gi-Oh! TCG.
+
+### GitHub Location 
+This project is hosted on GitHub at:
+https://github.com/MarkU39/PS_Final_Project_YGO_Database
